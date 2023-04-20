@@ -1,0 +1,22 @@
+div {
+    background-color: rgb(102, 187, 221);
+}
+
+body {
+    background-color: black;
+    margin: 50px;
+}
+ 
+nav {
+background-color: aliceblue;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 10;
+    padding: 0%;
+}
+
+img{
+    align-items: center;
+}
